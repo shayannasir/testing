@@ -4,9 +4,9 @@ to create a new heroku rep
 
 `"scripts": {
     "start": "node app.js"  //may vary with tech used
-  },
+  },`
   
-  "engines": {
+  `"engines": {
     "node": "10.15.0"
   },`
   
