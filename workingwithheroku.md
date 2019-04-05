@@ -18,7 +18,7 @@ to confirm that a remote named heroku has been set for your app
 
 `git remote rm heroku`
 
-`git remote add heroku git@heroku.com:yourappname.git`
+`git remote add heroku https://git.heroku.com/yourappname.git`
 
 renaming heroku app
 also, rename manually from heroku.com
